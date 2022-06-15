@@ -6,6 +6,8 @@ Running design thinking & lean
 
 结合 X-lab 实验室的小项目，实践设计思维、敏捷开发与精益创业中的方法论。
 
+助教信息：https://github.com/X-lab2017/open-wonderland/discussions/34
+
 ## 小项目候选：
 
 1. 交互式网站
@@ -20,7 +22,14 @@ Running design thinking & lean
 
 翻译已经成为科技工作者的一个日常工作方式。现在已有的开放翻译 API 也越来越成熟。如何针对一个具体场景，利用开放的翻译 API 能力，构建一套完整的分布式、可写作的翻译平台。
 
+4. X-lab 社区激励机制
+
+X-lab 参与度与贡献度的游戏化运营：https://github.com/orgs/X-lab2017/discussions/49
+
+
+
 ## 参考资料：
 - 2020 年课程材料：https://shimo.im/docs/tGQTyj6w6KXPQhdV
 - 2021 年课程材料：https://shimo.im/docs/gRDjUWGiayUuNLgT
+- 2021 年课件：https://xlab2017.yuque.com/g/msdpvs/gf8ew6/folder/25969567
 - https://www.konrad.com/research/how-to-run-a-design-thinking-workshop
